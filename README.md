@@ -10,7 +10,6 @@ fault for any actions done by this program.
 You can compile it from source to customize the software using the [Devc++](http://www.bloodshed.net/devcpp.html)
 
 
-
 ## Author
 
 [Allison Kosy](https://github.com/kosiken)
