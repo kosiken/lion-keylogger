@@ -7,8 +7,8 @@ fault for any actions done by this program.
 
 ## Installation 
 
-Just download the exe file from [here]() and launch it 
-or you can compile it from source to customize the software
+You can compile it from source to customize the software using the [Devc++](http://www.bloodshed.net/devcpp.html)
+
 
 
 ## Author
