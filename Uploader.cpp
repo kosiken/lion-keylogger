@@ -1,6 +1,6 @@
 #include "Uploader.h"
 
-
+// TODO fix this code
 LUploader::LUploader(const char * fn, const char *hn, const char * porte) {
 	port = porte;
 	fileName = fn;
